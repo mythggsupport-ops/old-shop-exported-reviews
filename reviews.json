@@ -14,6 +14,16 @@
  ],
  "reviews": [
   {
+   "text": "Great customer service and quick delivery even when you ask for the wrong stuff.",
+   "date": "21 September, 2026",
+   "stars": 5
+  },
+  {
+   "text": "Helpful,fast, good communication fursure recommended !!",
+   "date": "21 September, 2026",
+   "stars": 5
+  },
+  {
    "text": "a really good seller i can trust",
    "date": "20 September, 2026",
    "stars": 5
@@ -228,5 +238,10 @@
    "date": "28 July, 2026",
    "stars": 5
   }
- ]
+ ],
+ "_trustpilot_seen": [
+  "6ab1a04689da306c1232e645",
+  "6ab180935e982847ffa875e7"
+ ],
+ "_trustpilot_last_run": "2026-09-22"
 }
