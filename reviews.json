@@ -14,6 +14,16 @@
  ],
  "reviews": [
   {
+   "text": "Its safe and you really get what they say you get",
+   "date": "22 September, 2026",
+   "stars": 5
+  },
+  {
+   "text": "Good service and i didn’t get scammed for my money",
+   "date": "22 September, 2026",
+   "stars": 5
+  },
+  {
    "text": "You guys were fast with my deliveries and cheap I would recommend this to everyone",
    "date": "22 September, 2026",
    "stars": 5
@@ -253,7 +263,9 @@
   "6ab1a04689da306c1232e645",
   "6ab180935e982847ffa875e7",
   "6ab1cc4c7b1f51ff94be30da",
-  "6ab1ab819b1917b44fc734f1"
+  "6ab1ab819b1917b44fc734f1",
+  "6ab2155db328e20abedfc165",
+  "6ab21501a50a2886c9831dd2"
  ],
  "_trustpilot_last_run": "2026-09-22"
 }
