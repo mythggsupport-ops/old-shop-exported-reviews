@@ -14,6 +14,16 @@
  ],
  "reviews": [
   {
+   "text": "Very fast and easy process! Will repeat again",
+   "date": "24 September, 2026",
+   "stars": 5
+  },
+  {
+   "text": "Amazing it was truly seamless and delivered as promised",
+   "date": "24 September, 2026",
+   "stars": 5
+  },
+  {
    "text": "The delivery was indeed on time, the prices were affordable, and I received the product I ordered without any hassle or deception.",
    "date": "23 September, 2026",
    "stars": 5
@@ -267,7 +277,9 @@
   "6ab2155db328e20abedfc165",
   "6ab21501a50a2886c9831dd2",
   "6ab329d51953704919981abe",
-  "6ab3215c7ee214b803c11df3"
+  "6ab3215c7ee214b803c11df3",
+  "6ab492d874c37ce535e561aa",
+  "6ab48c5dc8c54630ab0c5598"
  ],
- "_trustpilot_last_run": "2026-09-23"
+ "_trustpilot_last_run": "2026-09-24"
 }
