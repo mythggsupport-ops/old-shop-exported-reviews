@@ -14,6 +14,16 @@
  ],
  "reviews": [
   {
+   "text": "he was very patient with me when i forgot my password and fulfilled my order amazing service",
+   "date": "26 September, 2026",
+   "stars": 5
+  },
+  {
+   "text": "Really was instant delivery great",
+   "date": "26 September, 2026",
+   "stars": 5
+  },
+  {
    "text": "the goat man fast and easy",
    "date": "25 September, 2026",
    "stars": 5
@@ -285,7 +295,9 @@
   "6ab3215c7ee214b803c11df3",
   "6ab492d874c37ce535e561aa",
   "6ab48c5dc8c54630ab0c5598",
-  "6ab5b3690fd3f124eea16054"
+  "6ab5b3690fd3f124eea16054",
+  "6ab71fbb8f960870ef789b20",
+  "6ab71e332f651e6efad8e045"
  ],
- "_trustpilot_last_run": "2026-09-25"
+ "_trustpilot_last_run": "2026-09-26"
 }
