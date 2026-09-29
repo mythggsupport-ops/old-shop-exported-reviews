@@ -14,6 +14,16 @@
  ],
  "reviews": [
   {
+   "text": "Ive had no problems with this service so far they communicated and did everything on time!",
+   "date": "29 September, 2026",
+   "stars": 5
+  },
+  {
+   "text": "It was quick timely and they got exactly what I asked for",
+   "date": "29 September, 2026",
+   "stars": 5
+  },
+  {
    "text": "He was a very good booster very fast and very cooperative overall 10/10 I would recommend",
    "date": "28 September, 2026",
    "stars": 5
@@ -321,7 +331,9 @@
   "6ab88374e5c45940eab18698",
   "6ab87e52da6bf8019519e051",
   "6ab9a225533e89ffb3965054",
-  "6ab999d06dd4e3efea0c8ebc"
+  "6ab999d06dd4e3efea0c8ebc",
+  "6abb3695a5b04ab937c6f179",
+  "6abb06fa55d7201273e6e3be"
  ],
- "_trustpilot_last_run": "2026-09-28"
+ "_trustpilot_last_run": "2026-09-29"
 }
