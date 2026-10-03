@@ -14,6 +14,16 @@
  ],
  "reviews": [
   {
+   "text": "Very fast, and haven’t run into any problems yet!",
+   "date": "3 October, 2026",
+   "stars": 5
+  },
+  {
+   "text": "Fast delivery",
+   "date": "3 October, 2026",
+   "stars": 5
+  },
+  {
    "text": "Ive had no problems with this service so far they communicated and did everything on time!",
    "date": "29 September, 2026",
    "stars": 5
@@ -333,7 +343,9 @@
   "6ab9a225533e89ffb3965054",
   "6ab999d06dd4e3efea0c8ebc",
   "6abb3695a5b04ab937c6f179",
-  "6abb06fa55d7201273e6e3be"
+  "6abb06fa55d7201273e6e3be",
+  "6ac091c40f9b74d1857f5942",
+  "6ac08214ee242e8d99f2b4b9"
  ],
- "_trustpilot_last_run": "2026-09-29"
+ "_trustpilot_last_run": "2026-10-03"
 }
