@@ -14,6 +14,11 @@
  ],
  "reviews": [
   {
+   "text": "It actually works, some stress but very little compared to the situation. Thank you VaskeVoid.",
+   "date": "10 October, 2026",
+   "stars": 5
+  },
+  {
    "text": "Gave me the pets as soon as i joined, great on time, under 3 minutes, thank you.",
    "date": "9 October, 2026",
    "stars": 5
@@ -375,7 +380,8 @@
   "6ac6d443de78c45c2819ac05",
   "6ac6f266960e960e90f82a70",
   "6ac6ecb219e9087566d296c8",
-  "6ac857fa22a034bc13da17f2"
+  "6ac857fa22a034bc13da17f2",
+  "6ac97f7a2e1f900a0e11e589"
  ],
- "_trustpilot_last_run": "2026-10-09"
+ "_trustpilot_last_run": "2026-10-10"
 }
