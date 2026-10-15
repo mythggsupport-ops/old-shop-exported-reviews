@@ -14,6 +14,11 @@
  ],
  "reviews": [
   {
+   "text": "Right on time, amazing price, and exactly what I purchased",
+   "date": "15 October, 2026",
+   "stars": 5
+  },
+  {
    "text": "Smooth transaction, I got what I want no hassle",
    "date": "13 October, 2026",
    "stars": 5
@@ -401,7 +406,8 @@
   "6acae0336074a324111ba5e9",
   "6acda2c4d0325b5db45ef12c",
   "6acd93de55d08a0122b1d266",
-  "6acd778b7cbbe0a2774f38d2"
+  "6acd778b7cbbe0a2774f38d2",
+  "6ad053769482c0497e46085c"
  ],
- "_trustpilot_last_run": "2026-10-13"
+ "_trustpilot_last_run": "2026-10-15"
 }
