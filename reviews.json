@@ -14,6 +14,11 @@
  ],
  "reviews": [
   {
+   "text": "fast asf ngl 10/10",
+   "date": "16 October, 2026",
+   "stars": 5
+  },
+  {
    "text": "Right on time, amazing price, and exactly what I purchased",
    "date": "15 October, 2026",
    "stars": 5
@@ -407,7 +412,8 @@
   "6acda2c4d0325b5db45ef12c",
   "6acd93de55d08a0122b1d266",
   "6acd778b7cbbe0a2774f38d2",
-  "6ad053769482c0497e46085c"
+  "6ad053769482c0497e46085c",
+  "6ad173b18f0ac2e8e2a915ab"
  ],
- "_trustpilot_last_run": "2026-10-15"
+ "_trustpilot_last_run": "2026-10-16"
 }
