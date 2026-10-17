@@ -14,6 +14,16 @@
  ],
  "reviews": [
   {
+   "text": "I’ve had nothing but good experiences with this service!",
+   "date": "17 October, 2026",
+   "stars": 5
+  },
+  {
+   "text": "This was literally the best experience in my life, it took less than 30 seconds for me to recieve the money. im definitely buying more from this same seller",
+   "date": "17 October, 2026",
+   "stars": 5
+  },
+  {
    "text": "fast asf ngl 10/10",
    "date": "16 October, 2026",
    "stars": 5
@@ -413,7 +423,9 @@
   "6acd93de55d08a0122b1d266",
   "6acd778b7cbbe0a2774f38d2",
   "6ad053769482c0497e46085c",
-  "6ad173b18f0ac2e8e2a915ab"
+  "6ad173b18f0ac2e8e2a915ab",
+  "6ad2b1decb0ea6098cb51868",
+  "6ad2a6ee341fea432198971f"
  ],
- "_trustpilot_last_run": "2026-10-16"
+ "_trustpilot_last_run": "2026-10-17"
 }
