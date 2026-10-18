@@ -14,6 +14,11 @@
  ],
  "reviews": [
   {
+   "text": "fast delivery and everything was there",
+   "date": "18 October, 2026",
+   "stars": 5
+  },
+  {
    "text": "I’ve had nothing but good experiences with this service!",
    "date": "17 October, 2026",
    "stars": 5
@@ -425,7 +430,8 @@
   "6ad053769482c0497e46085c",
   "6ad173b18f0ac2e8e2a915ab",
   "6ad2b1decb0ea6098cb51868",
-  "6ad2a6ee341fea432198971f"
+  "6ad2a6ee341fea432198971f",
+  "6ad427deb0339f883c482e26"
  ],
- "_trustpilot_last_run": "2026-10-17"
+ "_trustpilot_last_run": "2026-10-18"
 }
