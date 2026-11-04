@@ -14,6 +14,11 @@
  ],
  "reviews": [
   {
+   "text": "100% Trustworthy. I will be doing business again with them. I was done with my purchase in 5 minutes. Definitely someone I would recommend for anyone skeptical but considering…",
+   "date": "4 November, 2026",
+   "stars": 5
+  },
+  {
    "text": "Account works perfect 👍🏻",
    "date": "3 November, 2026",
    "stars": 4
@@ -486,7 +491,8 @@
   "6ae7fbf8d0eb16912fcb7ada",
   "6ae7ef7e8cf3f9f66a396307",
   "6ae908a3a294af8c27a22439",
-  "6ae9449cb21ea5396cbe394c"
+  "6ae9449cb21ea5396cbe394c",
+  "6aea8122519c46dc95f6eac0"
  ],
- "_trustpilot_last_run": "2026-11-03"
+ "_trustpilot_last_run": "2026-11-04"
 }
