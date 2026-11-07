@@ -14,6 +14,11 @@
  ],
  "reviews": [
   {
+   "text": "Fast and quick and very responsive",
+   "date": "7 November, 2026",
+   "stars": 5
+  },
+  {
    "text": "10/10 hooked me up with the goods, also compensated for some loss time. 1000000% recommend! communication was clear and updated me through out the process",
    "date": "6 November, 2026",
    "stars": 5
@@ -504,7 +509,8 @@
   "6ae9449cb21ea5396cbe394c",
   "6aea8122519c46dc95f6eac0",
   "6aed301a8d20cd6546c3f60c",
-  "6aed1bd8c9ce8cbdbf133b8b"
+  "6aed1bd8c9ce8cbdbf133b8b",
+  "6aee70aefda237b974dd152d"
  ],
- "_trustpilot_last_run": "2026-11-06"
+ "_trustpilot_last_run": "2026-11-07"
 }
