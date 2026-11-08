@@ -14,6 +14,16 @@
  ],
  "reviews": [
   {
+   "text": "Great got it immediately love it",
+   "date": "8 November, 2026",
+   "stars": 5
+  },
+  {
+   "text": "Asked and paid for 9, guy gave me about 15 x 340M",
+   "date": "8 November, 2026",
+   "stars": 5
+  },
+  {
    "text": "Fast and quick and very responsive",
    "date": "7 November, 2026",
    "stars": 5
@@ -510,7 +520,9 @@
   "6aea8122519c46dc95f6eac0",
   "6aed301a8d20cd6546c3f60c",
   "6aed1bd8c9ce8cbdbf133b8b",
-  "6aee70aefda237b974dd152d"
+  "6aee70aefda237b974dd152d",
+  "6aefc8611c7c3cae1057c9df",
+  "6aefd4233d37d3d29ceba151"
  ],
- "_trustpilot_last_run": "2026-11-07"
+ "_trustpilot_last_run": "2026-11-08"
 }
