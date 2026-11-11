@@ -14,6 +14,16 @@
  ],
  "reviews": [
   {
+   "text": "Great and fast seller! My order was delivered in just a few minutes. 10/10",
+   "date": "11 November, 2026",
+   "stars": 5
+  },
+  {
+   "text": "Got my account right away and I have not had any problems",
+   "date": "11 November, 2026",
+   "stars": 5
+  },
+  {
    "text": "Really fast got my order in 2 mins recommended",
    "date": "9 November, 2026",
    "stars": 5
@@ -528,7 +538,9 @@
   "6aee70aefda237b974dd152d",
   "6aefc8611c7c3cae1057c9df",
   "6aefd4233d37d3d29ceba151",
-  "6af1557789d2c6a5fdb37954"
+  "6af1557789d2c6a5fdb37954",
+  "6af407dda6646943bcb0afbb",
+  "6af3e5dbcbc0a72c6b78668b"
  ],
- "_trustpilot_last_run": "2026-11-09"
+ "_trustpilot_last_run": "2026-11-11"
 }
