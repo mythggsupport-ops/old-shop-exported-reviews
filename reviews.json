@@ -14,6 +14,16 @@
  ],
  "reviews": [
   {
+   "text": "Fast, easy and trustworthy.",
+   "date": "19 November, 2026",
+   "stars": 5
+  },
+  {
+   "text": "You can 100% trust them and they answer in less then 10 minutes!",
+   "date": "19 November, 2026",
+   "stars": 5
+  },
+  {
    "text": "Delivered immediately and exactly as described. Will use again, thank you so much.",
    "date": "18 November, 2026",
    "stars": 5
@@ -570,7 +580,9 @@
   "6af65e530c56c99027a66f64",
   "6af791c1c515dd8bf1d81640",
   "6afa834fc875f0dd831f7899",
-  "6afcece86de39805ca979530"
+  "6afcece86de39805ca979530",
+  "6afe395ef609f372e747b98c",
+  "6afe3585b7e7825daac26258"
  ],
- "_trustpilot_last_run": "2026-11-18"
+ "_trustpilot_last_run": "2026-11-19"
 }
