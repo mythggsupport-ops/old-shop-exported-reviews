@@ -14,6 +14,11 @@
  ],
  "reviews": [
   {
+   "text": "Delivery instant 10/10",
+   "date": "22 November, 2026",
+   "stars": 5
+  },
+  {
    "text": "it didnt take long at all to get my order ive never had any problems goated website",
    "date": "21 November, 2026",
    "stars": 5
@@ -588,7 +593,8 @@
   "6afcece86de39805ca979530",
   "6afe395ef609f372e747b98c",
   "6afe3585b7e7825daac26258",
-  "6b00f29f92cc06601fb2324f"
+  "6b00f29f92cc06601fb2324f",
+  "6b026119696d6b444f6ea4b1"
  ],
- "_trustpilot_last_run": "2026-11-21"
+ "_trustpilot_last_run": "2026-11-22"
 }
